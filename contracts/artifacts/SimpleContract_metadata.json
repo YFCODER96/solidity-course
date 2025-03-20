@@ -60,11 +60,11 @@
 	},
 	"sources": {
 		"contracts/SimpleContract.sol": {
-			"keccak256": "0x279de5a99b2830413819aa08ccfa0810c2185a64150080df9d7dff04aaa2b8b6",
+			"keccak256": "0x82868c6295e96940eb995b362b92edcde548a6478704bafbe64f845c73556427",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://bf7ba51ddad74b479bab0661a5ddb8e05987e2ffb370ae00979ca24c750e6f5a",
-				"dweb:/ipfs/QmUggz9VTq9azmrUKSSVygQbzzvtskxSj345sQYgHU3Cve"
+				"bzz-raw://31fd7a2b249b1172feadbcbb1a5728a31623a8f6df014b4a861f4aa6784805e1",
+				"dweb:/ipfs/Qmb5KCPR7CPM8NexRTU5eUijkpsamNynXgq82kFvfziPsN"
 			]
 		}
 	},

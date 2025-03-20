@@ -30,7 +30,7 @@ contract SimpleContract {
     function retrieve() public view returns(uint256){
         // 函数名 retrieve 指取回的意思
         // 函数的修饰符：
-        // view 该函数只有读取状态时可以访问到，不会修改状态。
+        // view 该函数只有读取状态时可以访问到，不会修改状态。调用view关键字的函数不消耗gas费用，但在消耗gas费用的函数中调用除外。
         // pure 该方法不改变任何状态。
         // returns(uint256) 返回值的类型
         return myFavoriteNumber;
